@@ -5,8 +5,8 @@ https://www.kaggle.com/datasets/vijayaadithyanvg/car-price-predictionused-cars?r
 # Запуск
 Для запуска проекта необходимо выполнить команды:
 ```
-git clone https://github.com/Egor14112001/IIS_Lr_1
-cd IIS_Lr_1
+git clone https://github.com/Egor14112001/lr_3_iis
+cd lr_3_iis
 установка окружения - python -m venv .venv_proj
 активация окружения - .venv_proj/scripts/Activate
 установка зависимостей - pip install -r requirements.txt
