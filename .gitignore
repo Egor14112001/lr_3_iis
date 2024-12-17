@@ -1,0 +1,7 @@
+*.csv
+*.pkl
+.venv*
+.ipynb_checkpoints
+*.db
+mlartifacts
+__pycache__
